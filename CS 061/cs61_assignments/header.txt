@@ -1,0 +1,11 @@
+;=================================================
+; Name: <last name, first name>
+; Email: <One used to login into iLearn> 
+; 
+; Assignment name: <assn n>
+; Lab section: 
+; 
+; I hereby certify that I have not received assistance on this assignment,
+; or used code, from ANY outside source other than the instruction team.
+;
+;=================================================
